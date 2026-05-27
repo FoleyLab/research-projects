@@ -13,7 +13,7 @@
 * Kirchhoff’s Law of Thermal Radiation
   https://en.wikipedia.org/wiki/Kirchhoff%27s_law_of_thermal_radiation
 
-* Explanatory paper on modeling thermal radiation with selective emitters: https://openresearchsoftware.metajnl.com/articles/10.5334/jors.271 
+* Explanatory paper on modeling thermal radiation with selective emitters: https://openresearchsoftware.metajnl.com/articles/10.5334/jors.271
 
 ## Modern applications of selective thermal emission
 
