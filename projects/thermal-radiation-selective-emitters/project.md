@@ -1,7 +1,7 @@
 ---
 
 title: "Thermal Radiation and Selective Emitters"
-pi: "FoleyLab"
+pi: "foleylab"
 goals:
 
 * "Implement Planck's blackbody law numerically in Python"
